@@ -1,0 +1,11 @@
+The Rustacean's Song
+
+With borrow checker's might, my code is safe and soundNo data races shall my program ever foundOwnership and lifetimes I have learned to understandSo memory errors will not plague my hand
+
+Generics and traits allow abstraction with easePattern matching makes my logic aim to pleaseError handling in Result I can neatly foldPanics for the exceptional I'm also told
+
+Concurrency is fearless with no data raceThanks to ownership, the compiler saves my faceAsync code runs efficient, no callback hellFutures and tasks all cooperate well
+
+Cargo builds my crates, docs and tests with careClippy lints help keep my codebase fairRustfmt styles my code, consistent and cleanThe tooling makes programming Rust a dream
+
+So I code in Rust with comfort and delightIts safety and speed fill my programmer's heart with mightThe borrow checker, at first confusing, is now my friendRust empowers me to code fast and correct to the end!!!
